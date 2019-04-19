@@ -1,7 +1,7 @@
-MukadiWordpressBundle
+WordpressBundle
 ====================
 
-This is a fork of [EkinoWordpressbundle](https://github.com/ekino/EkinoWordpressBundle), this bundle adapt EkinoWordpressBundle to symfony 4 new architecture and features. Some features has been removed (such as automatic symfony authentication when authenticated in Wordpress...) and will be reintegrated as separated bundle to install if needed.
+This is a fork of [MukadiWordpressbundle](https://github.com/mbo2olivier/mukadi-wordpress-bundle), this bundle adapt EkinoWordpressBundle to symfony 4 new architecture and features. Some features has been removed (such as automatic symfony authentication when authenticated in Wordpress...) and will be reintegrated as separated bundle to install if needed.
 
 Here are some retained features:
 
